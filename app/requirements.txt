@@ -1,0 +1,11 @@
+tensorflow-cpu==2.10.0 
+keras==2.10.0
+numpy==1.23.5
+Pillow
+imageio
+imageio-ffmpeg
+SpeechRecognition
+streamlit
+seaborn
+matplotlib
+opencv-python

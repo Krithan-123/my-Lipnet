@@ -1,0 +1,7 @@
+{
+    "python.analysis.extraPaths": [
+        "./app",
+        "./lipnet/Lib/site-packages",
+        "./lipsync/Lib/site-packages/IPython/core"
+    ]
+}
