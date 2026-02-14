@@ -25,15 +25,16 @@ Video Input → CNN → Bi-GRU → CTC → Predicted Sentence
 
 ##  Project Structure
 
+```bash
 lipnet/
 │
-├── data/ # Dataset
-├── models/ # Model architecture
-├── training/ # Training scripts
-├── utils/ # Helper functions
+├── data/               # Dataset
+├── models/             # Model architecture
+├── training/           # Training scripts
+├── utils/              # Helper functions
 ├── requirements.txt
 └── main.py
-
+```
 This project uses the GRID Corpus dataset for training and evaluation.
 
 Dataset contains:
