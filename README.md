@@ -1,8 +1,8 @@
-# 🎥 LipNet - End-to-End Lip Reading Model
+#  LipNet - End-to-End Lip Reading Model
 
 An implementation of LipNet — a deep learning model that performs sentence-level lip reading directly from video inputs.
 
-## 🚀 Overview
+##  Overview
 
 LipNet is an end-to-end deep learning model that reads lips by analyzing video sequences of mouth movements and converting them into text.
 
@@ -11,7 +11,7 @@ This project uses:
 - Recurrent Neural Networks (RNN / GRU / LSTM)
 - CTC Loss for sequence prediction
 
-## 🧠 Model Architecture
+##  Model Architecture
 
 The model consists of:
 
@@ -23,7 +23,7 @@ Pipeline:
 
 Video Input → CNN → Bi-GRU → CTC → Predicted Sentence
 
-## 📂 Project Structure
+##  Project Structure
 
 lipnet/
 │
